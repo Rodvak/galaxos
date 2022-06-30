@@ -2,7 +2,7 @@
 
 <p>Galaxos is a e-commerce site where you can purchase paintings or customize your own.</p>
 <p>This project allows the user to store pieces of art, it is a Full CRUD app.</p>
-<p>It also has LOGIN and REGISTRATION and keeps the user in session.</p>
+<p>It also has LOGIN and REGISTRATION, keeps the user in session and can handle validations as well.</p>
 <p>You can create, save, edit and delete Paintings.</p>
 
 ## Demo
